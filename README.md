@@ -24,7 +24,7 @@ Currently working toward a pre doctoral research assistant role, with the goal o
 | [research-papers](https://github.com/smpagare/research-papers) | Working papers, replication code, and data |
 | [Masters-Thesis](https://github.com/smpagare/Masters-Thesis) | MSc dissertation, KCL 2025 |
 | [replication-practice](https://github.com/smpagare/replication-practice) | Replications of published economics papers |
-| [coding-samples](https://github.com/smpagare/coding-samples) | Code, writing, and research work samples |
+| [coding-samples](https://github.com/smpagare/coding-samples) | Clean R, Stata, and Python coding samples |
 | [econometrics](https://github.com/smpagare/econometrics) | Econometrics study notes and exercises |
 | [personal-site](https://github.com/smpagare/personal-site) | Source for my personal academic site |
 
